@@ -87,7 +87,7 @@ An overview of the transaction flow is shown below:
 <table>
 	<tr>
 		<td>
-			<img  width="100%" height="auto"  src="InteractionMethods1.png" />
+			<img  width="100%" height="auto"  src="/images/PDEX-SMART-Hook-SMART-InteractionMethods1.png" />
 		</td>	
 	</tr>	
 </table>
@@ -126,12 +126,12 @@ An overview of the OAuth2.0 Flow using the FHIR API is shown below for both Heal
 <table>
 	<tr>
 		<td>
-			<img  width="100%" height="auto"  src="InteractionMethods2.png" />
+			<img  width="100%" height="auto"  src="/images/Payer-Payer-with-member-InteractionMethods2.png" />
 		</td>	
 	</tr>
 	<tr>
 		<td>
-			<img  width="100%" height="auto"  src="InteractionMethods3.png" />
+			<img  width="100%" height="auto"  src="/images/Payer-App-InteractionMethods3.png" />
 		</td>	
 	</tr>
 </table>

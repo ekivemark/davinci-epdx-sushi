@@ -47,6 +47,7 @@ pages:
   4_PDexImplementationActorsInteractionsDataPayloadsandMethods.md:
     title: PDex Implementation, Actors, Interactions, Data Payloads and Methods
     HandlingDataProvenance.md:
+    PayerToPayerExchange.md:
     DataMapping.md:
       USCoreAllergyIntolerance.md:
         title: US Core AllergyIntolerance
